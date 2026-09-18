@@ -1,0 +1,13 @@
+Two playable fighters.
+Player 1 controls:
+A/D = move left/right
+W = jump
+F = punch
+G = kick
+H = special attack
+Player 2 controls:
+Arrow Left/Right = move
+Arrow Up = jump
+J = punch
+K = kick
+L = special attack
